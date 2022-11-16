@@ -10,7 +10,7 @@ export default {
       validation: (Rule) => Rule.required(),
     },
     {
-      name: "short_desrciption",
+      name: "short_description",
       type: "string",
       title: "Short Description",
     },
